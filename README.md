@@ -1,4 +1,4 @@
-![logo](https://github.com/keith-owira/keith-owira/blob/main/zaptech-banner.jpg)
+![logo](https://github.com/keith-owira/keith-owira/blob/main/Cyber-security-website-banner.png)
 
 <h1 align="center">Hi 👋, I'm Keith Owira</h1>
 <h3 align="center">A passionate Software Developer from Nairobi</h3>
