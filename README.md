@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [an e-commerce website for selling Sportswear](https://sureapparelstore.com/)
 
-- 🔭 I’m currently working for [Poa Internet]((https://github.com/keithowira)/)
+- 🔭 I’m currently working for [Poa Internet](https://github.com/keithowira/)
 
 - 🌱 I’m currently learning **Vue and Flutter**
 
