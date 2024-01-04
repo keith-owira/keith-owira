@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keith-owira&label=Profile%20views&color=0e75b6&style=flat" alt="keith-owira" /> </p>
 
+- 🔭 Checkout my portfolio [My Portfolio](https://keithowira.co.ke)
+
 - 🔭 I’m currently working on [an e-commerce website for selling Sportswear](https://sureapparelstore.com/)
 
 - 🔭 I’m currently working for [Poa Internet](https://github.com/keithowira/)
